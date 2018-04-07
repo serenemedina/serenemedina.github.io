@@ -1,2 +1,2 @@
-# serenemedina.github.io
+# World of Warcraft Site
 
