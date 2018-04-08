@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ## World of Warcraft Site
 
 ## Preview
