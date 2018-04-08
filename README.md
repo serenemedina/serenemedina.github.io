@@ -3,10 +3,10 @@
 
 ## Preview
 
-**[View Live Preview](https://serenemedina.github.io/)**
+**[View Live Preview](https://serenemedina.github.io/index.html)**
 
 ## About
 
-* http://serenemedina.github.io
+* https://serenemedina.github.io/index.html
 * https://github.com/serenemedina
 
